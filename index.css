@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
-
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap');
 
 * {
   margin: 0;
@@ -119,7 +119,7 @@ body {
   background: white;
   top: 0;
   left: 100%;
-  padding: 60px 30px;
+  padding: 30px 30px;
 }
 .card:hover .details {
   top: 0;
@@ -131,11 +131,15 @@ body {
   margin: 0;
   padding: 0 0 10px;
   border-bottom: 2px solid black;
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+
 
 }
 .card .details p {
   margin: 20px 0 0;
   color: vlack;
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+
 }
 .samarn{
 
