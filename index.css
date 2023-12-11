@@ -176,6 +176,7 @@ body {
   position: fixed;
   top: 50px;
   right: 50px;
+  caret-color: transparent;
 }
 
 .theme-switch, .theme-switch *, .theme-switch *::before, .theme-switch *::after {
